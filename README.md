@@ -8,4 +8,4 @@ um gráfico em forma de pizza com todos os gastos.</p>
 Login Social (OAuth - Google e IOS), navegação (stack - tab) assim como diversas bibliotecas para o auxílio em pontos chaves da aplicação.</p>
 <br>
 
-<p>O layout do projeto pode ser acessado através <a href="https://www.figma.com/file/0UP24Sbz15AobFJK6QHRqY/GoFinances-Ignite---React-Native">desse link<a>.</p>
+<p>O layout do projeto pode ser acessado através <a href="https://www.figma.com/file/0UP24Sbz15AobFJK6QHRqY/GoFinances-Ignite---React-Native" target="_blank">desse link</a>.</p>
